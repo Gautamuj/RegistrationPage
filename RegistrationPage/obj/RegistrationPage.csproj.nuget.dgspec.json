@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\RegistrationPage.csproj": {}
+    "C:\\Users\\ujjan\\Downloads\\Gautam_project\\RegistrationPage\\RegistrationPage.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\RegistrationPage.csproj": {
+    "C:\\Users\\ujjan\\Downloads\\Gautam_project\\RegistrationPage\\RegistrationPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\RegistrationPage.csproj",
+        "projectUniqueName": "C:\\Users\\ujjan\\Downloads\\Gautam_project\\RegistrationPage\\RegistrationPage.csproj",
         "projectName": "RegistrationPage",
-        "projectPath": "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\RegistrationPage.csproj",
+        "projectPath": "C:\\Users\\ujjan\\Downloads\\Gautam_project\\RegistrationPage\\RegistrationPage.csproj",
         "packagesPath": "C:\\Users\\ujjan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\obj\\",
+        "outputPath": "C:\\Users\\ujjan\\Downloads\\Gautam_project\\RegistrationPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
