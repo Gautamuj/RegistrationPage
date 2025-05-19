@@ -1,0 +1,41 @@
+﻿@model List<User>
+
+<h2>All Registered Users</h2>
+
+<div class="d-flex justify-content-end mb-3">
+    <form asp-action="Logout" asp-controller="User" method="post">
+        
+        <button type="submit" class="btn btn-outline-danger">Logout</button>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped mt-4">
+    <thead class="table-light">
+        <tr>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Mobile Number</th>
+            <th>Date of Birth</th>
+            <th>Gender</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.FullName</td>
+                <td>@user.Email</td>
+                <td>@user.MobileNumber</td>
+                <td>@user.DateOfBirth.ToString("yyyy-MM-dd")</td>
+                <td>@user.Gender</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.Id" class="btn btn-sm btn-primary">Edit</a>
+                </td>
+                <td>
+                <a asp-action="Delete" asp-route-id="@user.Id" class="btn btn-sm btn-danger ms-2">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
