@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LpYp4EeEvoM=",
+  "dgSpecHash": "4t0RYZYd2J8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ujjan\\Downloads\\gautamproject\\RegistrationPage\\RegistrationPage.csproj",
+  "projectFilePath": "C:\\Users\\ujjan\\OneDrive\\Documents\\newpro\\RegistrationPage\\RegistrationPage\\RegistrationPage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ujjan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ujjan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

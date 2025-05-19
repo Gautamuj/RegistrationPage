@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistrationPage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b61804a66d2159f2a04e4ea40c9a5367af03221b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistrationPage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistrationPage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
